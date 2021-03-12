@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend server for tic-tac-toe",
+  "main": "index.js",
+  "author": "Heekang Park",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment-timezone": "^0.5.33"
+  }
+}
